@@ -35,8 +35,8 @@ truffle test test/test-swapbridge.js --network mainnet_fork
 
 ## Todo
 
-### 1. relayer layer to monitor status change and relay message between to chains.
-### 2. SendBridge Smart Contract.
+  - relayer layer to monitor status change and relay message between to chains.
+  - SendBridge Smart Contract.
 
 
 
